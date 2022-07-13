@@ -3,8 +3,20 @@ We implemented the SIFT algorithm presented in this [paper](https://link.springe
 
 ## Results: 
 
+**Car: Clutterd**
+![clutter_1](https://user-images.githubusercontent.com/35029771/178829700-4d1d7e54-a82d-499d-bfcb-1a7375da66ca.png)
+
+**Car: Rotated**
+![rotated](https://user-images.githubusercontent.com/35029771/178829723-1b0c85bf-3dd2-4f10-9190-973ec982c707.png)
+
+**Humanoid: Cluttered**
+![clutter_standing](https://user-images.githubusercontent.com/35029771/178829748-40eff062-0a2e-4669-8d2e-9e3191d5a357.png)
+
+**Humanoid: Distanced**
+![distanced_2](https://user-images.githubusercontent.com/35029771/178829796-5349e610-1d16-4337-88b0-e4057952a201.png)
 
 ---
+
 ## Tools and Frameworks
 
 **IDE:** VS Code <br>
@@ -12,10 +24,6 @@ We implemented the SIFT algorithm presented in this [paper](https://link.springe
 
 **3rd party libraries:**
 - OpenCV 4.2
-
-**Software Modelling Tool:** Star UML <br>
-*(The deployment diagram that describes the modular design of the code and how the different nodes interact with each other was created using this software)*
-
 
 ---
 ## Usage
