@@ -24,7 +24,7 @@ If you would like to run this code make sure it is in the same directory as the 
 The GenerateDatabaseInfo.py file is meant to create the database of model keypoints and should not neeed to be run.
 
 
-	```bash
+    ```bash
 	$ python3 main.py
 	```	
 ---
